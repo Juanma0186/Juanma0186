@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6B30D9&section=header&textBg=false&reversal=true" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=300&size=24&duration=3000&pause=500&color=6B30D9&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;UX%2FUI+Designer;Always+learning)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=300&size=24&duration=3000&pause=500&color=6B30D9&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;UX%2FUI+Designer;Always+learning" alt="Descripción" />
+</p>
 <!--
 **Juanma0186/Juanma0186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
