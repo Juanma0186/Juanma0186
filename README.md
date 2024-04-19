@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6B30D9&section=header&textBg=false&reversal=true" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=75&color=6B30D9&section=header&textBg=false&reversal=true" />
 ### Hi there 👋
 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6B30D9&section=footer&textBg=false&reversal=true" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=75&color=6B30D9&section=footer&textBg=false&reversal=true" />
