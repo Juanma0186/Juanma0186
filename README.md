@@ -22,14 +22,13 @@
   <img src="https://github.com/Juanma0186/Juanma0186/assets/87316519/e5e3dff6-5857-48ff-8666-cfaf67b8aba9"
     style="width:400px" align="right" alt="Imagen de un portátil" />
   <p>
-    Future Frontend Developer and UX/UI Designer with a passion for creating and designing digital products that provide a
+    🟣 Future Frontend Developer and UX/UI Designer with a passion for creating and designing digital products that provide a
     great user experience.
   </p>
   <p>
-    Proactive person who is always looking to learn new things and improve my skills.</p>
+    🟣 Proactive person who is always looking to learn new things and improve my skills.</p>
   <p>
-    I am
-    currently studying a higher degree in web application development in <a
+    🟣 I am currently studying a higher degree in web application development in <a
       href="https://site.educa.madrid.org/ies.juandelacierva.madrid/">IES Juan de la Cierva</a>.
   </p>
 </details>
@@ -53,5 +52,5 @@ Here are some ideas to get you started:
 -->
 
 <!--Footer-->
-<img style="width:100%"
+<img
   src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6B30D9&section=footer&textBg=false&reversal=true" />
