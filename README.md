@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 <!--Footer-->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6B30D9&section=footer&textBg=false&reversal=true" />
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6B30D9&section=footer&textBg=false&reversal=true" width=100%/>
