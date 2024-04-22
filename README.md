@@ -29,7 +29,7 @@
     🟣 Proactive person who is always looking to learn new things and improve my skills.</p>
   <p>
     🟣 I am currently studying a higher degree in web application development in <a
-      href="https://site.educa.madrid.org/ies.juandelacierva.madrid/">IES Juan de la Cierva</a>.
+      href="https://site.educa.madrid.org/ies.juandelacierva.madrid/" target="_blank">IES Juan de la Cierva</a>.
   </p>
 </details>
 
